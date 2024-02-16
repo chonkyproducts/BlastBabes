@@ -8,7 +8,7 @@ This project is a free claim drop for wallets on a whitelist, which will be gene
 
 - `contracts`: Contains the Solidity contract `blastbabes.sol` for the BlastBabes NFT.
 - `metadata`: Contains the metadata for the NFTs.
-  - `.json` metadata files: JSON files containing the metadata for each NFT.
+  - `metadata` metadata files: JSON files containing the metadata for each NFT.
   - `images`: Folder containing the images for each NFT.
   - `metadata.py`: A Python script to generate the metadata JSON files.
 - `scripts`: Contains the deployment script `deploy.js` for the BlastBabes contract.
